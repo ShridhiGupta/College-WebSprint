@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    animation: animation ;
+}
+.trans{
+    animation-direction:alternate-reverse;
+    animation-duration: 4s;
+}
+.basic{
+    height: 350px;
+    padding-left: 20px;
+
+}
+.sec1text{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.intro{
+    width: 100vw;
+    height: 300px;
+    background-color: #ec7530;
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+    font-family: sans-serif;
+}
+
+.section1{
+    background-color: #c418a7;
+}
+.section2{
+    height: 560px;
+    background-color: #1a39c4;
+    display: flex;
+
+}
+.section3{
+    background-color: #893f0b;
+    font-family: sans-serif;
+    text-align: center;
+}
+.section4{
+    display: flex;
+    background-color: #9a17a5;
+}
+.section5{
+    background-color: #14a480;
+}
+.section6{
+    padding-left: 20px;
+    background-color: #792cb7;
+}
+.section7{
+    padding-top: 20px;
+    padding-left: 20px;
+    background-color: #1a39c4;
+}
+.outro{
+    background-color: #d75c0a;
+}
+.footer{
+    height: 60px;
+    background-color: black;
+}
+.imgstyle{
+    position: relative;
+    height: 230px;
+    width: 464px;
+    border-radius: 20px;
+}
+.images{
+    width: 100vw;
+    /* border: 2px solid; */
+    padding-left: 20px;
+    padding-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.box{
+    background-color: white;
+    display: flex;
+    height: 300px;
+    width: 300px;
+    border:2px solid;
+
+    
+}
+
+.box2{
+    position: relative;
+    height: 100px;
+    width: 100px;
+    left: 5px;
+    top: 5px;
+    background-color: red;
+}
+.circle{
+    position: relative;
+    top: 200px;
+    background-color: red;
+    height: 100px;
+    border-radius:64px;
+    border: 2px solid;
+    width: 100px;
+}
+.ytvideo a{
+    color: red;
+    padding-left: 20px;
+}
+.canvas{
+    gap: 20px;
+    display: flex;
+}
+.text{
+    font-family: sans-serif;
+    font-weight: bolder;
+    color: #fc0f07;
+}
+.footer{
+    padding-top: 30px;
+    color: white;
+    height: 300px;
+    text-align: center;
+}
+.links a{
+    color: wheat;
+}
+.text{
+  
+    font-family: sans-serif;
+    font-weight: bolder;
+    color: #00ffaa;
+}
